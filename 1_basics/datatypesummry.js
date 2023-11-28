@@ -33,3 +33,30 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+______________________________________________________________________________________________________________________________________________________________
+
+
+
+//memory
+
+
+let myyoutubname = "poojakumavat"
+let anothername = myyoutubname
+anothername = "pooja"
+
+
+console.log(myyoutubnameyoutubname);
+console.log(anothername);
+
+
+
+let userone ={
+    Email:"pooja@google.com",
+    upi:"user@ybl"
+
+     
+}
+let usertwo = userone
+usertwo.Email ="kumavatpooja@google.com"
+console.log(userone. Email);
+console.log(usertwo. Email);
